@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Readpaper Helper
 // @namespace    Terrasse
-// @version      1.0.0
+// @version      1.1.0
 // @description  Readpaper website enhancements
 // @author       You
 // @match        https://readpaper.com/paper/*
@@ -12,6 +12,8 @@
 // @grant        GM_download
 // @grant        GM_openInTab
 // @run-at       document-idle
+// @downloadURL  https://update.greasyfork.org/scripts/505232/readpaper_helper.user.js
+// @updateURL    https://update.greasyfork.org/scripts/505232/readpaper_helper.user.js
 // ==/UserScript==
 
 setTimeout(function () {
