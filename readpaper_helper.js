@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Readpaper Helper
 // @namespace    Terrasse
-// @version      2024-08-25
+// @version      1.0.0
 // @description  Readpaper website enhancements
 // @author       You
 // @match        https://readpaper.com/paper/*
